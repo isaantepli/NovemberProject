@@ -1,5 +1,5 @@
 /NovemberProject.iml
-.idea
-target
-*.iml
+/.idea/
+/target/
+/*.iml/
 
