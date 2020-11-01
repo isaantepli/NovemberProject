@@ -3,5 +3,6 @@ public class Superman {
         System.out.println("I love Canada");
 
         // Stay hungry, Stay foolish!
+        // Steve Jobs
     }
 }
